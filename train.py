@@ -16,3 +16,4 @@ with open("model.pkl", "wb") as f:
     pickle.dump(model, f)
 
 print("Model trained and saved!")
+print("CI/CD test run successful!")
